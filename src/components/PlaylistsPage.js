@@ -1,8 +1,9 @@
 import React from 'react';
 
 const playlists = [
-  { title: 'COSMIC Series - Meditation Music', youtube_link: 'https://youtube.com/playlist?list=PLJfvMQgAiaWaZoRPxk3ucgx094NJEACj8&si=K3BZ1fVVF5TfutGN' },
+  { title: 'BEACH Series - Meditation Music', youtube_link: 'https://youtube.com/playlist?list=PLJfvMQgAiaWbaWnMWuXDJnFcQHeqXTY-x&si=kePxz357Wz3n1SEM' },
   { title: 'DESERT Series - Meditation Music', youtube_link: 'https://youtube.com/playlist?list=PLJfvMQgAiaWZNSCpV0_72qpp2k6SaSHUX&si=MM1ik9mRylVh1A6n' },
+  { title: 'COSMIC Series - Meditation Music', youtube_link: 'https://youtube.com/playlist?list=PLJfvMQgAiaWaZoRPxk3ucgx094NJEACj8&si=K3BZ1fVVF5TfutGN' },
 ];
 
 function PlaylistsPage() {
