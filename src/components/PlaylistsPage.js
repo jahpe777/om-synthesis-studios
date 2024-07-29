@@ -2,6 +2,11 @@ import React from "react";
 
 const playlists = [
   {
+    title: "OCEAN Series - Meditation Music",
+    youtube_link:
+      "https://youtube.com/playlist?list=PLJfvMQgAiaWav8zwRgUq-0nlYci7C3FeJ&feature=shared",
+  },
+  {
     title: "MOUNTAIN Series - Meditation Music",
     youtube_link:
       "https://youtube.com/playlist?list=PLJfvMQgAiaWYqL_SqDTtGcquHI_1K6FeF&si=C2_iltQUAoJwlGlR",
