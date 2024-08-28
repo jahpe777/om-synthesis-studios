@@ -2,6 +2,21 @@ import React from "react";
 
 const playlists = [
   {
+    title: "VALLEY Series - Meditation Music",
+    youtube_link:
+      "https://youtube.com/playlist?list=PLJfvMQgAiaWYJBMmySCjSMDcGIzZLvXKz&feature=shared",
+  },
+  {
+    title: "FARM Series - Meditation Music",
+    youtube_link:
+      "https://youtube.com/playlist?list=PLJfvMQgAiaWbMi63D86HnBZXY3S8WSVgA&feature=shared",
+  },
+  {
+    title: "CANYON Series - Meditation Music",
+    youtube_link:
+      "https://youtube.com/playlist?list=PLJfvMQgAiaWbR42ZO8sVDyjp7fxgk7WL9&feature=shared",
+  },
+  {
     title: "OCEAN Series - Meditation Music",
     youtube_link:
       "https://youtube.com/playlist?list=PLJfvMQgAiaWav8zwRgUq-0nlYci7C3FeJ&feature=shared",
